@@ -1,0 +1,11 @@
+class Personn{
+    private:
+     string nom;
+     int age;
+     int taille;
+
+    public :
+
+
+
+};
